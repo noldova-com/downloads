@@ -6,7 +6,7 @@ Each release is tagged `<app>-<version>`, such as `teamrun-0.0.1`, and holds tha
 
 To install an app, use its download page:
 
-- TeamRun: https://teamrun.noldova.com/download/
+- TeamRun: https://teamrun.noldova.com
 
 Installed apps update themselves from these releases.
 
